@@ -1,1 +1,1 @@
-web: datasette dataset.csv . -h 0.0.0.0 -p $PORT --cors
+web: datasette dataset.db . -h 0.0.0.0 -p $PORT --cors
