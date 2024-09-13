@@ -1,1 +1,1 @@
-web: datasette serve yourfile.csv
+web: datasette serve dataset.csv
